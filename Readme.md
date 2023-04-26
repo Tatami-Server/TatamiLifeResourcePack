@@ -1,4 +1,4 @@
-# TatamiLifeResourcePack(JE/BE)
+# TatamiLifeRP(JE/BE)
 畳サーバー生活鯖で自動的に適応されるリソースパックです
 
 ## 内容
