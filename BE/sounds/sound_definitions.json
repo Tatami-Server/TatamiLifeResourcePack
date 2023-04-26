@@ -1,0 +1,30 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.19.10",
+	"sound_definitions": {
+		"tatamilife.station.1": {
+			"category": "record",
+			"max_distance": 64,
+			"sounds": [
+				{
+					"name": "sounds/music/tatamilife/station/1/1",
+					"load_on_low_memory": true,
+					"stream": true,
+					"volume": 0.5
+				}
+			]
+		},
+		"tatamilife.station.2": {
+			"category": "record",
+			"max_distance": 64,
+			"sounds": [
+				{
+					"name": "sounds/music/tatamilife/station/2/1",
+					"load_on_low_memory": true,
+					"stream": true,
+					"volume": 0.5
+				}
+			]
+		}
+	}
+}
