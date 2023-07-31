@@ -6,10 +6,10 @@
 
   "overrides": [
        {"predicate": {"custom_model_data":1}, "model": "minecraft:item/1G"},
-       {"predicate": {"custom_model_data":2}, "model": "minecraft:item/create_item_ticket"},
        {"predicate": {"custom_model_data":10}, "model": "minecraft:item/10G"},
        {"predicate": {"custom_model_data":100}, "model": "minecraft:item/100G"},
        {"predicate": {"custom_model_data":1000}, "model": "minecraft:item/1000G"},
        {"predicate": {"custom_model_data":10000}, "model": "minecraft:item/10000G"}
+
   ]
 }
